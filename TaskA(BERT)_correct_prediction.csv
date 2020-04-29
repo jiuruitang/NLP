@@ -1,0 +1,147 @@
+﻿id,sent0,sent1,Predict,Label
+1821,I bought a pan for drinking fresh juice,I bought a juicer for drinking fresh juice,0,0
+1822,taking summer vacation caused lots of stress,taking final exams caused lots of stress,0,0
+1823,clues can lead you to the answer,disguise can lead you to the answer,1,1
+1824,you can definitely cook food well by following a recipe,you may cook food well by following a recipe,0,0
+1825,the company fired some employees because of continued losses,the company hired more employees because of continued losses,1,1
+1827,I'm waiting for a clear night to observe stars,I'm waiting for a cloudy night to observe stars,1,1
+1829,buying presents requires love and money,buying presents requires love or money,1,1
+1830,going to the zoo is for being seen,going to the zoo is for seeing animals,0,0
+1831,the horses water the cowboy everyday,a cowboy waters the horses everyday,0,0
+1832,people expect enjoyment when they go to the cinema,people expect boredom when they go to the cinema,1,1
+1833,Bob sang a picture yesterday,Bob painted a picture yesterday,0,0
+1835,you need an audience if you want to share your story,you need a dog if you want to share your story,1,1
+1838,goods can be transported by plane,goods can be transported by wind,1,1
+1839,the ship hit the submarine yesterday,the ship hit the train yesterday,1,1
+1841,meeting my friends is for business,meeting my friends is for pleasure,0,0
+1842,when you borrowed a car you can sell it to others,when you borrowed a car you can show it to others,0,0
+1843,I had plastic surgery in the hospital,I had plastic surgery in the pharmacy,1,1
+1844,fortunately the fat man lost weight by working hard,fortunately the fat man lost fingers by working hard,1,1
+1846,I stop eating salt food to lose weight,I stop eating sweet food to lose weight,0,0
+1847,the weather can be either sweet or salt in China,the weather can be either cool or warm in China,0,0
+1848,adults change clothes according to the weather every day,adults change clothes according to their height every day,1,1
+1851,the alarm ringing announced that the class was over,the bell ringing announced that the class was over,0,0
+1852,passengers need to undergo a rigorous safety check before boarding the plane,passengers need to undergo a rigorous safety check before taking a taxi,1,1
+1853,you can use money to buy some products to live longer,you can use money to buy some health to live longer,1,1
+1854,studying requires violence,studying requires patience,0,0
+1857,the young man offered his seat to the old lady on the bus,the driver offered his seat to the old lady on the bus,1,1
+1859,my father sold the best products to become the best salesman,my father sold the best salesmen to become the best product,1,1
+1860,I washed my computers twice a week,I washed my clothes twice a week,0,0
+1861,I used to step on the mountain to get the sugar on the op of the cupboard,I used to step on the stone to get the sugar on the top of the cupboard,0,0
+1862,a wall is the boundary of a house,a wall is the entrance of a house,1,1
+1864,we use the microscope to learn about the microcosm,we use the microscope to learn about the universe,1,1
+1865,we can find first class airplane seats in the wings of a plane,we can find first class airplane seats in the front of a plane,0,0
+1866,"when a relative dies, we held a funeral for him","when a relative dies, we held a party for him",1,1
+1867,a bed can rest a pillow,a bed can rest a person,0,0
+1868,parents will praise children when kids did something well,children will praise parents when kids did something well,1,1
+1869,professional soccer players earn money by selling footballs,professional soccer players earn money by playing football games,0,0
+1870,animals are pets,pets are animals,0,0
+1873,I bought a ticket for the train I took,I bought a ticket for the taxi I took,1,1
+1874,he was fined for smoking in his home,he was fined for smoking in the airplane,0,0
+1875,we took notes in class for recording what we were thinking,we took notes in class for not forgetting the knowledge,0,0
+1876,I want to find a quiet place to have a sleep,I want to find a noisy place to have a sleep,1,1
+1877,People open their doors when they go out of the home,People close their doors when they go out of the home,0,0
+1878,People can talk chat with living people,People can chat with the dead,1,1
+1879,Sweat will be secreted when the sand touches eyes,Tears will be secreted when the sand touches eyes,0,0
+1880,People usually put curtains on the windows,People usually put curtains on the walls,1,1
+1881,People usually roast meat with cold water,People usually roast meat over fire,0,0
+1883,People usually like to wear oversize clothes,People usually like to wear fitted clothes,0,0
+1884,People should abide by the contract,People should break the contract,1,1
+1885,Rats can't bite metal furniture,Rats can't bite wood furniture,1,1
+1886,Sheep usually like wolves,Sheep usually hate wolves,0,0
+1888,Eating a lot of instant noodles is healthy,Eating a lot of instant noodles is unhealthy,0,0
+1892,mom cooks the fried egg once a week for me,mom cooks the fried tiger meat once a week for me,1,1
+1893,sprinters' legs are usually strong,sprinters' arms are usually strong,1,1
+1894,I can take part in the soccer game in formal clothes,I can take part in the soccer game in athletic clothes,0,0
+1895,we can travel on the sea by boat,we can travel on the sea by train,1,1
+1897,we can eat noodles with knives,we can eat noodles with forks,0,0
+1899,People can make wires from metal,People can make wires from plastics,1,1
+1900,People can read newspapers to know what has happened recently,People can read newspapers to know what will happen in the future,1,1
+1901,People should rub water on their skin before giving an injection,People should rub ethyl alcohol on their skin before giving an injection,0,0
+1902,Something you might do while taking the bus is drawing an oil painting,Something you might do while taking the bus is reading a newspaper,0,0
+1906,The longest nonstop flight by a bird is eight days,The longest nonstop flight by a dog is eight days,1,1
+1908,Humans smell through their ears,Humans smell through their noses,0,0
+1910,It's winter and it's freezing cold outside,It's summer and it's freezing cold outside,1,1
+1911,Frogs will die with enough water,Frogs will die without enough water,0,0
+1912,Kate made books with a microwave oven,Kate made popcorn with a microwave oven,0,0
+1915,She goes skiing while watching TV,She eats snacks while watching TV,0,0
+1916,Children in school use crayons for drawing,Children in school use cameras for drawing,1,1
+1917,Wang is eating with poles,Wang is eating with chopsticks,0,0
+1918,Dry towels need to hang up to dry,Wet towels need to hang up to dry,0,0
+1919,Running is a good exercise,Resting is a good exercise,1,1
+1920,Cookies and milk make a great dessert,Computers and milk make a great dessert,1,1
+1921,a basket is for warmth,a blanket is for warmth,0,0
+1922,attending class is for learning,attending class is for playing,1,1
+1923,He throws up when he eats bad food,He throws up when he eats nice food,1,1
+1924,Shoes are meant to protect feet,Shoes are meant to protect hands,1,1
+1925,most people consider it to be cold when it is below zero degrees,most people consider it to be cold when it is above ninety degrees,1,1
+1926,a piece of paper is used for writing,a piece of cake is used for writing,1,1
+1927,Amy is happy to know that her best friend has recovered from the illness,Amy is angry to know that her best friend has recovered from the illness,1,1
+1928,my jaw dropped open when I was shocked,my jaw dropped open when I was unhappy,1,1
+1929,the filthy car needs to be washed,the filthy car needs to be painted,1,1
+1930,my friend paid for my ticket so I got on the bus,my friend paid for my ticket so I didn't get on the bus,1,1
+1931,dina visited her family because she distrusted them,dina visited her family because she missed them,0,0
+1934,a hammer dropped on Bill's foot and his toe was broken,a hammer dropped on Bill's foot and his finger was broken,1,1
+1935,the clothes are still dirty because I forgot to add laundry water,the clothes are still dirty because I forgot to add laundry detergent,0,0
+1937,the conversation gradually lulled to silence as more people left,the conversation gradually lulled to silence as more people joined,1,1
+1939,vehicles travelled slowly in cloudy days,vehicles travelled slowly in foggy days,0,0
+1941,the clouds were getting darker so I brought my umbrella to work,the clouds were getting darker so I brought my laptop to work,1,1
+1942,the boy lost hold of the soap because it's fragrant,the boy lost hold of the soap because it's slippery,0,0
+1945,the leader received praise because he fought poverty,the leader received praise because he raised taxes,1,1
+1946,my mailbox was overflowing with letters when I went back after one month,my mailbox was overflowing with letters when I went back after five minutes,1,1
+1947,the banana ripened so we ate them,the banana ripened so we threw them away,1,1
+1948,the chef pressed down on the dough and the dough crumbled,the chef pressed down on the dough and the dough flattened,0,0
+1949,my feet were blistered after a day of swimming,my feet were blistered after a day of hiking,0,0
+1951,he found the tv show boring so he recorded it,he found the tv show boring so he turned it off,0,0
+1952,the boy was afraid to go to bed because he watched a horror movie,the boy was afraid to go to bed because he watched a comedy movie,1,1
+1954,thomas wanted to get revenge on his enemy,thomas wanted to get revenge on his friend,1,1
+1955,the woman was mistaken for her sister because they sat close,the woman was mistaken for her sister because they looked alike,0,0
+1958,miley scrubbed the stain on the floor and she got rid of the stain,miley scrubbed the stain on the floor and she got dirt on the floor,1,1
+1959,the egg splattered after I dropped it,the egg splattered after I boiled it,1,1
+1960,a group of teenagers crashed the party and the host invited them in,a group of teenagers crashed the party and the host kicked them out,0,0
+1961,the man took a shower because he opened a new bar of soap,the man took a shower because he was sweaty from working out,0,0
+1962,the screen of the laptop went black because it's battery died,the screen of the laptop went black because it's warranty expired,1,1
+1963,the book became a unsalable and it was adapted into a movie,the book became a bestseller and it was adapted into a movie,0,0
+1965,the ocean tide was dangerous so the swimmers put on more sunscreen,the ocean tide was dangerous so the swimmers returned to a closer place,0,0
+1966,minaj was deemed mentally ill so she sought a career as psychologist,minaj was deemed mentally ill so she was sent to a psychologist,0,0
+1968,I applied pressure to the cut on my arm and it healed,I applied pressure to the cut on my arm and it stopped bleeding,0,0
+1969,leo had an infection so she washed her hands,leo had an infection so she took antibiotic,0,0
+1970,the woman fanned herself with her hand for the air conditioner is new,the woman fanned herself with her hand for the air conditioner is broken,0,0
+1972,the boy giggled uncontrollably because his brother kicked him,the boy giggled uncontrollably because his brother tickled him,0,0
+1973,the DJ turned the music on and everyone left the party,the DJ turned the music on and everyone began to dance,0,0
+1974,I need some cash so I went to the wallet store,I need some cash so I went to the bank,0,0
+1975,the boy played computer games to be muscular,the boy lifted weights to be muscular,0,0
+1976,the milk stayed cold because I boiled it in the pot,the milk stayed cold because I kept it in the refrigerator,0,0
+1977,fiona put the soup on ice cubes and it cooled down,fiona put the soup on ice cubes and it became thick,1,1
+1981,the patient underwent the deadly medical procedure to recover,the patient underwent the risky medical procedure to recover,0,0
+1982,i feed my doll twice a day,i feed my cat twice a day,0,0
+1983,Jane carries her house upstairs,Jane carries her bag upstairs,0,0
+1984,a cat hides under a car to shelter from the rain,a cat hides above a car to shelter from the rain,1,1
+1985,she makes phone calls to communicate with a deaf person,she makes gestures to communicate with a deaf person,0,0
+1986,Sam was caught cheating on a written examination,Sam was caught writing on a written examination,1,1
+1987,he wants to lose weight because he is too thin,he wants to lose weight because he is too fat,0,0
+1989,"if you want to take a shower, you can choose a hotel","if you want to take a shower, you can choose a restaurant",1,1
+1991,she pours some washing powder to do the laundry,she pours some mud to do the laundry,1,1
+1992,he reads newspapers at breakfast,he reads bread at breakfast,1,1
+1993,i take two days off every week,i take eight days off every week,1,1
+1994,Mary lives in a hotel during a business trip,Mary lives in a hospital during a business trip,1,1
+1995,she keeps a parrot in a fish tank filled with water,she keeps a tortoise in a fish tank filled with water,0,0
+1996,she prepares a custom-designed nightgown for the ceremony,she prepares a custom-designed evening dress for the ceremony,0,0
+1997,people use donkeys to carry heavy loads,people use rabbits to carry heavy loads,1,1
+1999,Jim downloads music from the Internet,Jim downloads music from the book,1,1
+2000,their village was destroyed by a dragon yesterday,their village was destroyed by a tornado yesterday,0,0
+2001,she writes her letter with a bag,she writes her letter with a pen,0,0
+2004,banana trees grow in the jungle,banana trees grow in the desert,1,1
+2005,he lit a candle to give light,he lit some salt to give light,1,1
+2007,rings protect people from the sun,umbrellas protect people from the sun,0,0
+2008,Jim wins the Best Actor Award because of his acting skills,Jim wins the Best Singer Award because of his acting skills,1,1
+2009,the accident happened because Jack drank water before driving,the accident happened because Jack drank alcohol before driving,0,0
+2010,i pick a leaf from a maple tree,i pick a leaf from a goldfish,1,1
+2011,i am learning French from my teacher,i am learning French from my cat,1,1
+2012,India is a country in Europe,Great Britain is a country in Europe,0,0
+2014,Bob goes to bed because he feels sleepy,Bob goes to work because he feels sleepy,1,1
+2015,Ellen kicks the judge hard in order to win,Ellen kicks the ball hard in order to win,0,0
+2016,the shredder cut a piece of paper into pieces,the shredder cut a cup of water into pieces,1,1
+2018,you can see a dinosaur in the museum,you can see a dinosaur in the zoo,1,1
+2019,people have to hold onto their hats because of the wind,people have to hold onto their shoes because of the wind,1,1
+2021,people bleed when they feel hot,people sweat when they feel hot,0,0
